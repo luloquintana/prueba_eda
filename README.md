@@ -3,7 +3,6 @@ Repositorio para desarrollar un proyecto de análisis de datos senior
 
 ## Estructura del repositorio
 
-prueba_tecnica_[tu_nombre]/
 ├── README.md
 ├── prueba_tecnica.pdf
 ├── bloque0_auditoria.sql
