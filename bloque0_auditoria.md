@@ -1,6 +1,7 @@
 # Auditoría de Calidad de Datos
 Auditoría de la completitud, consistencia, unicidad, validez, etc. de los datasets. 
 Para cada dataset, documentamos qué encontramos en cada hallazgo, y qué decisión conlleva para los subsecuentes bloques. 
+Casos inconsistentes: no debería haber loyalty_card=TRUE sin customer_id, ni loyalty_card=FALSE con customer_id.
 
 ## Instrucciones
 Documenta cada hallazgo con evidencia (conteo de filas afectadas).
